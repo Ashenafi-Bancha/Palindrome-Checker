@@ -1,0 +1,18 @@
+<DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plaindrome Checker</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <form>
+      <input id="text-input" type="text" value="word" required>
+      <button type="submit" id="check-btn"></button>
+      <p id="result"></p>
+    </form>
+    <script src="script.js"></script>
+  </body>
+
+</html>
